@@ -9,7 +9,10 @@
   <a href="https://www.instagram.com/mohamed_2005_ahmed/?hl=ar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:supermohamed55555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<!-- لينك البورتفوليو والعمل الحر -->
 <p align="left">
+  <a href="https://supermohamed55555-hash.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-090a0f?style=for-the-badge&logo=googlechrome&logoColor=00f3ff" alt="My Portfolio" /></a>
   <a href="mailto:supermohamed55555@gmail.com"><img src="https://img.shields.io/badge/Status-Available_For_Freelance-14c767?style=for-the-badge" alt="Available for Freelance" /></a>
 </p>
 
@@ -84,9 +87,9 @@ I am always open to freelance opportunities and collaborations.
 
 - **Email:** [supermohamed55555@gmail.com](mailto:supermohamed55555@gmail.com)
 - **LinkedIn:** [Mohamed Ahmed](https://www.linkedin.com/in/moahmed-ahmed-02523532b)
+- **Website:** [My Portfolio](https://supermohamed55555-hash.github.io/portfolio/)
 - **Contact me for:** Projects, bug fixing, and backend development
 
 <!-- 
 - Fiverr / Khamsat: Add your link here later
 -->
-
