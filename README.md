@@ -4,8 +4,8 @@
 [![YouTube Channel](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@moahmedahmed9619?si=KhrSEPUL35puGBmr)
 [![Available For Hire](https://img.shields.io/badge/Status-Available_For_Freelance-14c767?style=for-the-badge)](mailto:supermohamed55555@gmail.com)
 
-<!-- GIF + Video Link -->
-[![Watch My Tech Video!](https://media.tenor.com/7NXdiVkG8oQAAAAC/hacker-typing.gif)](https://pin.it/5XZImfupC)
+<!-- الـ GIF بتاعك اللي طلبته مربوط بلينك Pinterest بشكل مباشر -->
+[![Watch My Tech Video!](https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif)](https://pin.it/5XZImfupC)
 
 ---
 
