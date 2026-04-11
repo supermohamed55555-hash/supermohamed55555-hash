@@ -1,11 +1,23 @@
+<!-- السطر ده هيخلي الـ GIF تظهر على اليمين خالص زي ما طلبت -->
+<a href="https://pin.it/5XZImfupC" target="_blank">
+  <img align="right" src="https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif" width="320" alt="Watch My Tech Video!" />
+</a>
+
 # Hey 👋, I'm Mohamed!
-### 💻 Software Engineer | 🚀 Freelance Developer | 🛡️ Cyber Security Enthusiast | 🎥 Tech YouTuber
+### 💻 Software Engineer | 🚀 Freelance Developer | 🛡️ Cyber Security | 🎥 Tech YouTuber
 
-[![YouTube Channel](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@moahmedahmed9619?si=KhrSEPUL35puGBmr)
-[![Available For Hire](https://img.shields.io/badge/Status-Available_For_Freelance-14c767?style=for-the-badge)](mailto:supermohamed55555@gmail.com)
+<!-- لينكات السوشيال ميديا والإيميل كلها جنب بعض شكلها عظمة -->
+<p align="left">
+  <a href="https://youtube.com/@moahmedahmed9619"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/mohamed.ahmed.841344/?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/mohamed_2005_ahmed/?hl=ar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:supermohamed55555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+<p align="left">
+  <a href="mailto:supermohamed55555@gmail.com"><img src="https://img.shields.io/badge/Status-Available_For_Freelance-14c767?style=for-the-badge" alt="Available for Freelance" /></a>
+</p>
 
-<!-- الـ GIF بتاعك اللي طلبته مربوط بلينك Pinterest بشكل مباشر -->
-[![Watch My Tech Video!](https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif)](https://pin.it/5XZImfupC)
+<br>
 
 ---
 
