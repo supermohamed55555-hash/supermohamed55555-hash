@@ -4,6 +4,7 @@
 
 <p align="left">
   <a href="https://youtube.com/@moahmedahmed9619"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/moahmed-ahmed-02523532b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/mohamed.ahmed.841344/?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/mohamed_2005_ahmed/?hl=ar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:supermohamed55555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -32,8 +33,8 @@
 ## Featured Projects
 
 - **[Interactive Cyber Security Learning Platform](https://supermohamed55555-hash.github.io/CYBER-MASTER-HACKER-EDITION/)**: Simulates cyber attacks and teaches security concepts interactively.
-- **Java OOP System**: Application with secure Login System and File Handling.
-- **Web Projects**: Responsive websites using HTML, CSS, and JavaScript.
+- **Java OOP System**: Application with secure Login System and File Handling. *(Link coming soon)*
+- **Web Projects**: Responsive websites using HTML, CSS, and JavaScript. *(Link coming soon)*
 
 ---
 
@@ -65,9 +66,15 @@
 
 ## My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supermohamed55555-hash&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/supermohamed55555-hash)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supermohamed55555-hash&theme=radical)](https://github.com/supermohamed55555-hash)
+<p align="center">
+  <a href="https://github.com/supermohamed55555-hash">
+    <img src="https://github-readme-stats.vercel.app/api?username=supermohamed55555-hash&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://github.com/supermohamed55555-hash">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=supermohamed55555-hash&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
@@ -76,8 +83,10 @@
 I am always open to freelance opportunities and collaborations.
 
 - **Email:** [supermohamed55555@gmail.com](mailto:supermohamed55555@gmail.com)
+- **LinkedIn:** [Mohamed Ahmed](https://www.linkedin.com/in/moahmed-ahmed-02523532b)
 - **Contact me for:** Projects, bug fixing, and backend development
 
 <!-- 
 - Fiverr / Khamsat: Add your link here later
 -->
+
