@@ -1,36 +1,40 @@
-<h1 align="left">Hey 👋, I'm Mohamed!</h1>
-<h3 align="left">💻 Software Engineer | 🛡️ Cyber Security Enthusiast | 🎥 Tech YouTuber</h3>
+# Hey 👋, I'm Mohamed!
+### 💻 Software Engineer | 🛡️ Cyber Security | 🎥 Tech YouTuber
 
-<p align="left">
-  <a href="https://youtube.com/@moahmedahmed9619?si=KhrSEPUL35puGBmr">
-    <img src="https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge">
-  </a>
-</p>
+[![YouTube Channel](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@moahmedahmed9619?si=KhrSEPUL35puGBmr)
+[![Available For Hire](https://img.shields.io/badge/Status-Available_For_Freelance-14c767?style=for-the-badge)](mailto:supermohamed55555@gmail.com)
 
-<!-- رابط Pinterest محطوط جوه GIF شكلها احترافي تليق مع مجال السايبر سيكيوريتي -->
-<a href="https://pin.it/5P5h61dCA" target="_blank">
-  <img align="right" src="https://media.giphy.com/media/LUIvcbR6yomaQ/giphy.gif" width="220" alt="Tech Video Link" />
-</a>
+<!-- الصورة المتحركة بتاعة الهكر اللي بتودي للفيديو -->
+[![Watch My Tech Video!](https://media.tenor.com/7NXdiVkG8oQAAAAC/hacker-typing.gif)](https://pin.it/5P5h61dCA)
 
 ## ⚡️ A Few Quick Facts
-- 🔭 I’m currently working on my **[Cyber Master Hacker Edition](https://supermohamed55555-hash.github.io/CYBER-MASTER-HACKER-EDITION/)** platform and the **[Networking Book](https://supermohamed55555-hash.github.io/Networking-Book/)**.
+- 💼 **Available for freelance work:** Professional backend logic, robust OOP systems, and functional websites.
+- 🔭 I’m currently building the **[Cyber Security Learning Platform](https://supermohamed55555-hash.github.io/CYBER-MASTER-HACKER-EDITION/)** and the **[Networking Book](https://supermohamed55555-hash.github.io/Networking-Book/)**.
 - 🎥 I create programming tutorials and explain tech concepts on **[my YouTube channel](https://youtube.com/@moahmedahmed9619)**.
-- 🧠 Highly skilled in building robust logic and systems using **Object-Oriented Programming (OOP)**.
-- 💬 Ping me about **C/C++, Java, Web Development, Cyber Security, or SQL**.
-- 🎉 Fun Fact: I enjoy breaking things down just to learn how to build them back up!
+- 💬 Ping me about **Freelancing**, **Projects**, or if you need **C/C++ & Java** solutions!
 
-## 🚀 Skills & Tools I Use
-<!-- هنا حطيتلك الأيقونات كلها بشكل مظبوط وستايل الـ Dark mode -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,mysql,git,github&theme=dark" alt="My Skills" />
-  </a>
-</p>
+## 🚀 Featured Projects
+- 🔹 **[Cyber Security Learning Platform](https://supermohamed55555-hash.github.io/CYBER-MASTER-HACKER-EDITION/)**: An interactive platform simulating cyber attacks and providing educational resources.
+- 🔹 **Java OOP System**: A robust desktop/console application built with secure User Authentication (Login) and integrated File Handling logic.
+- 🔹 **Web Projects**: Fully responsive interfaces and interactive features built efficiently using modern HTML, CSS, and JS.
+
+## 🛠️ Skills & Expertise
+**Programming:** C | C++ | Java | Python | JavaScript | SQL  
+**Core Concepts:** OOP | Data Structures | Networking Basics  
+
+[![My Toolset](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,mysql,git,github&theme=dark)](https://skillicons.dev)
 
 ## 📈 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=supermohamed55555-hash&show_icons=true&theme=radical&hide_border=true&title_color=14c767" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supermohamed55555-hash&theme=radical&hide_border=true&ring=14c767&fire=14c767" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supermohamed55555-hash&show_icons=true&theme=radical)](https://github.com/supermohamed55555-hash)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supermohamed55555-hash&theme=radical)](https://github.com/supermohamed55555-hash)
+
+## 📫 Let's Work Together!
+I am always open to discussing freelance opportunities, custom projects, or collaborative work. Reach out and let's build something awesome!
+
+- 📧 **Email:** [supermohamed55555@gmail.com](mailto:supermohamed55555@gmail.com)
+- 💼 **Contact me for:** Project requests, custom scripts, and backend solutions.
+<!-- 
+لو عندك حساب على فايفر أو خمسات، ممكن تزود السطر ده وتمسح علامات الكومنت: 
+- 🟢 **Fiverr / Khamsat:** [Your Link Here](#)
+-->
