@@ -1,20 +1,10 @@
-<h1 align="center">Hey 👋, I'm Mohamed!</h1>
-<h3 align="center">💻 Software Engineer | 🛡️ Cyber Security Enthusiast | 🎥 Tech YouTuber</h3>
+# Hey 👋, I'm Mohamed!
+### 💻 Software Engineer | 🛡️ Cyber Security Enthusiast | 🎥 Tech YouTuber
 
-<p align="center">
-  <a href="https://youtube.com/@moahmedahmed9619?si=KhrSEPUL35puGBmr">
-    <img src="https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge">
-  </a>
-</p>
+[![YouTube Channel](https://img.shields.io/badge/-YouTube%20Channel-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@moahmedahmed9619?si=KhrSEPUL35puGBmr)
 
-<!-- لينك Pinterest محطوط جوه GIF شكلها رايق ومرفوعة على جيتهاب نفسها لضمان عدم اختفائها -->
-<p align="center">
-  <a href="https://pin.it/5P5h61dCA" target="_blank">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="350" alt="Watch My Tech Video!" />
-  </a>
-</p>
-
-<br>
+<!-- الصورة دي هتبقى شغالة 100% ولما تدوس عليها هتوديك لينك Pinterest -->
+[![Watch My Tech Video!](https://media.tenor.com/7NXdiVkG8oQAAAAC/hacker-typing.gif)](https://pin.it/5P5h61dCA)
 
 ## ⚡️ A Few Quick Facts
 - 🔭 I’m currently working on my **[Cyber Master Hacker Edition](https://supermohamed55555-hash.github.io/CYBER-MASTER-HACKER-EDITION/)** platform and the **[Networking Book](https://supermohamed55555-hash.github.io/Networking-Book/)**.
@@ -24,15 +14,11 @@
 - 🎉 Fun Fact: I enjoy breaking things down just to learn how to build them back up!
 
 ## 🚀 Skills & Tools I Use
-<!-- الأيقونات الجميلة بتاعت اللغات -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,mysql,git,github&theme=dark" alt="My Skills" />
-  </a>
-</p>
+<!-- عرض الأيقونات بالماركداون الصافي -->
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,js,html,css,mysql,git,github&theme=dark)](https://skillicons.dev)
 
 ## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supermohamed55555-hash&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supermohamed55555-hash&theme=radical" alt="GitHub Streak" />
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supermohamed55555-hash&show_icons=true&theme=radical)](https://github.com/supermohamed55555-hash)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=supermohamed55555-hash&theme=radical)](https://github.com/supermohamed55555-hash)
