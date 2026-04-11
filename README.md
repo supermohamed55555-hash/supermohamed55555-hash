@@ -1,7 +1,7 @@
 # Hey 👋, I'm Mohamed!
 ### 💻 Software Engineer | 🚀 Freelance Developer | 🛡️ Cyber Security | 🎥 Tech YouTuber
 
-<!-- لينكات السوشيال ميديا والإيميل كلها جنب بعض شكلها عظمة -->
+<!-- لينكات السوشيال ميديا والإيميل -->
 <p align="left">
   <a href="https://youtube.com/@moahmedahmed9619"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.facebook.com/mohamed.ahmed.841344/?locale=ar_AR"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -12,20 +12,19 @@
   <a href="mailto:supermohamed55555@gmail.com"><img src="https://img.shields.io/badge/Status-Available_For_Freelance-14c767?style=for-the-badge" alt="Available for Freelance" /></a>
 </p>
 
----
+<br>
 
-<!-- نقلنا الـ GIF هنا عشان تظهر بالظبط جنب قائمة הـ Facts وكبرنا حجمها سيكا عشان تبقى واضحة -->
 <a href="https://pin.it/5XZImfupC" target="_blank">
-  <img align="right" src="https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif" width="380" alt="Watch My Tech Video!" />
+  <img align="right" src="https://i.pinimg.com/originals/67/07/05/6707055158264320bd4462bcc037a81a.gif" width="400" alt="Watch My Tech Video!" />
 </a>
 
-## ⚡️ A Few Quick Facts
+<!-- الحل هنا! غیرنا ## لـ ### عشان جيتهاب ميرسمش خط العنوان اللي بيقطع الصورة -->
+### ⚡️ A Few Quick Facts
 - 💼 **Available for freelance work:** I build Java systems, fix bugs, and create responsive websites.
 - 🔭 I’m currently building the **[Interactive Cyber Security Learning Platform](https://supermohamed55555-hash.github.io/CYBER-MASTER-HACKER-EDITION/)** and the **[Networking Book](https://supermohamed55555-hash.github.io/Networking-Book/)**.
 - 🎥 I create programming tutorials and explain tech concepts on **[my YouTube channel](https://youtube.com/@moahmedahmed9619)**.
 - 💬 Ping me about **Freelancing**, **Projects**, or if you need **C/C++ & Java** solutions!
 
-<!-- الكود ده بيمنع أي خط تحته إنه يخبط في الصورة -->
 <br clear="both">
 
 ---
