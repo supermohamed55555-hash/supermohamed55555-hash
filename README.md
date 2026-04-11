@@ -5,7 +5,7 @@
 [![Available For Hire](https://img.shields.io/badge/Status-Available_For_Freelance-14c767?style=for-the-badge)](mailto:supermohamed55555@gmail.com)
 
 <!-- GIF + Video Link -->
-[![Watch My Tech Video!](https://media.tenor.com/7NXdiVkG8oQAAAAC/hacker-typing.gif)](https://pin.it/5P5h61dCA)
+[![Watch My Tech Video!](https://media.tenor.com/7NXdiVkG8oQAAAAC/hacker-typing.gif)](https://pin.it/5XZImfupC)
 
 ---
 
