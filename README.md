@@ -55,7 +55,7 @@ A production-grade platform for managing university queues with a futuristic dar
 
 ---
 
-###  [Materknhash ERP (متكرنهاش)](https://github.com/supermohamed55555-hash)
+###  [Materknhash ERP (متركنهاش)](https://github.com/supermohamed55555-hash)
 > Next-Generation Automotive Marketplace & Enterprise Resource Planning
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
