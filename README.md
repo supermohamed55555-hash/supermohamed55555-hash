@@ -32,11 +32,11 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ---
 
-### 🎫 [AAST Smart Ticketing System](https://github.com/supermohamed55555-hash)
+###  [AAST Smart Ticketing System](https://github.com/supermohamed55555-hash)
 > AI-Powered University Queue Management Platform
 
 ![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -47,15 +47,15 @@
 
 A production-grade platform for managing university queues with a futuristic dark-mode dashboard (Glassmorphism + Framer Motion animations).
 
-**✨ Highlights:**
-- 🤖 **AI-Powered**: Smart department categorizer, auto-summarizer for admin, and traffic predictor using historical data
-- 🧮 **Academic Data Structures**: Priority Queue (Heap), General Tree, Binary Search O(log n), Undo Stack
-- ⚡ **Real-Time** queue updates via Socket.IO
-- 📊 **Interactive Analytics** with Recharts
+** Highlights:**
+-  **AI-Powered**: Smart department categorizer, auto-summarizer for admin, and traffic predictor using historical data
+-  **Academic Data Structures**: Priority Queue (Heap), General Tree, Binary Search O(log n), Undo Stack
+-  **Real-Time** queue updates via Socket.IO
+-  **Interactive Analytics** with Recharts
 
 ---
 
-### 🚗 [Materknhash ERP (متكرنهاش)](https://github.com/supermohamed55555-hash)
+###  [Materknhash ERP (متكرنهاش)](https://github.com/supermohamed55555-hash)
 > Next-Generation Automotive Marketplace & Enterprise Resource Planning
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -65,16 +65,16 @@ A production-grade platform for managing university queues with a futuristic dar
 
 A comprehensive multi-tenant desktop ERP for the automotive parts market — built as a real startup with an actual pilot merchant running the system in production.
 
-**✨ Highlights:**
-- 👥 **Multi-Tenant Roles**: Admin, Employee, Seller, Customer, and Service Center dashboards
-- 🧵 **Multithreading**: Async execution keeps the JavaFX GUI smooth under heavy DB loads
-- 📦 **Dynamic Order Tracking**: Full courier + tracking number workflow
-- 🔌 **Socket-Based Invoicing Server**: Multi-client TCP server for real-time transactions
-- 🌐 **Bilingual**: Full Arabic + English support with RTL-safe database configs
+** Highlights:**
+-  **Multi-Tenant Roles**: Admin, Employee, Seller, Customer, and Service Center dashboards
+-  **Multithreading**: Async execution keeps the JavaFX GUI smooth under heavy DB loads
+-  **Dynamic Order Tracking**: Full courier + tracking number workflow
+-  **Socket-Based Invoicing Server**: Multi-client TCP server for real-time transactions
+-  **Bilingual**: Full Arabic + English support with RTL-safe database configs
 
 ---
 
-### 🩸 [LifeStream - Blood Donation Management System](https://web-project-production-71c0.up.railway.app/index.php)
+###  [LifeStream - Blood Donation Management System](https://web-project-production-71c0.up.railway.app/index.php)
 > Connecting Blood Donors with Patients in Emergency Situations
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -86,15 +86,15 @@ A comprehensive multi-tenant desktop ERP for the automotive parts market — bui
 A modern web app for the Aswan Governorate that maps verified hospitals and emergency blood requests in real-time.
 
 **✨ Highlights:**
-- 🗺️ **Verified Hospital Mapping**: Precise coordinates via curated dataset — no inaccurate GPS data
-- 🔐 **Security First**: PDO Prepared Statements (no SQL injection), bcrypt hashing, RBAC
-- 🌍 **Privacy-Safe**: User locations never stored — only destination hospitals are mapped
-- 🎨 **Glassmorphism UI** with full RTL & Arabic support
-- 🆚 **Leaflet.js over Google Maps**: Open-source, faster on mobile, zero tracking
+-  **Verified Hospital Mapping**: Precise coordinates via curated dataset — no inaccurate GPS data
+-  **Security First**: PDO Prepared Statements (no SQL injection), bcrypt hashing, RBAC
+-  **Privacy-Safe**: User locations never stored — only destination hospitals are mapped
+-  **Glassmorphism UI** with full RTL & Arabic support
+-  **Leaflet.js over Google Maps**: Open-source, faster on mobile, zero tracking
 
 ---
 
-### 🏙️ [CivicPulse](https://github.com/supermohamed55555-hash)
+###  [CivicPulse](https://github.com/supermohamed55555-hash)
 > Community-Driven Civic Issue Reporting Platform
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -106,18 +106,18 @@ A modern web app for the Aswan Governorate that maps verified hospitals and emer
 A full-stack platform for residents to report, browse, and upvote local infrastructure issues with an interactive Google Maps interface.
 
 **✨ Highlights:**
-- 🗺️ **Interactive Map**: Color-coded issue markers (blue = open, amber = in-progress, green = resolved)
-- 🔼 **Community Upvoting**: Help prioritize the most critical civic problems
-- 🔒 **End-to-End Type Safety**: tRPC 11 + TypeScript across the full stack
-- 🧪 **Fully Tested**: Comprehensive Vitest suite covering CRUD, auth, and permissions
-- ⚡ **Built with**: React 19, Express, Drizzle ORM, shadcn/ui
+-  **Interactive Map**: Color-coded issue markers (blue = open, amber = in-progress, green = resolved)
+-  **Community Upvoting**: Help prioritize the most critical civic problems
+-  **End-to-End Type Safety**: tRPC 11 + TypeScript across the full stack
+-  **Fully Tested**: Comprehensive Vitest suite covering CRUD, auth, and permissions
+-  **Built with**: React 19, Express, Drizzle ORM, shadcn/ui
 
 ---
 
-### 🛡️ [Interactive Cyber Security Learning Platform](https://supermohamed55555-hash.github.io/CYBER-MASTER-HACKER-EDITION/)
+###  [Interactive Cyber Security Learning Platform](https://supermohamed55555-hash.github.io/CYBER-MASTER-HACKER-EDITION/)
 Simulates real cyber attacks and teaches security concepts interactively. *(In Active Development)*
 
-### 📖 [Networking Book](https://supermohamed55555-hash.github.io/Networking-Book/)
+###  [Networking Book](https://supermohamed55555-hash.github.io/Networking-Book/)
 An interactive networking reference guide. *(In Active Development)*
 
 ---
